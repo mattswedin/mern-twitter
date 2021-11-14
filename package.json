@@ -1,0 +1,22 @@
+{
+  "name": "mern_twitter",
+  "version": "1.0.0",
+  "description": "twitter created with MERN stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattswedin/mern-twitter.git"
+  },
+  "keywords": [
+    "mern"
+  ],
+  "author": "mattswedin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattswedin/mern-twitter/issues"
+  },
+  "homepage": "https://github.com/mattswedin/mern-twitter#readme"
+}
